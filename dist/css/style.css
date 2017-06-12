@@ -1,0 +1,16 @@
+#number-field
+{
+    height: 30px;
+    width: 135px;
+    border: 1px solid black;
+    border-radius: 5%;
+    margin-bottom: 2px;
+    padding: 1px;
+    font-size: 75%;
+}
+
+button
+{
+    width: 34px;
+    height: 22px;
+}

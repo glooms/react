@@ -1,9 +1,11 @@
 import React from 'react';
-
+import ButtonPad from './ButtonPad';
+import NumberField from './NumberField';
 
 class Layout extends React.Component
 {
-    constructor() {
+    constructor()
+    {
         super();
     }
 
@@ -11,7 +13,8 @@ class Layout extends React.Component
     {
         return (
             <div>
-                Hej.
+                <NumberField />
+                <ButtonPad />
             </div>
         );
     }

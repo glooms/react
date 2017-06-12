@@ -29,7 +29,8 @@ module.exports = {
                         //'transform-es3-property-literals',
                         'react-html-attrs',
                         'transform-class-properties',
-                        'transform-decorators-legacy'
+                        'transform-decorators-legacy',
+                        'transform-object-rest-spread'
                     ]
                 }
             }
