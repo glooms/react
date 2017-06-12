@@ -1,0 +1,8 @@
+{
+    "products": [
+        {"image":"https://media.dustin.eu/image/22920/180/130/hpe-proliant-microserver-gen8-intel-g1610t-4gb.jpg", "title":"Rubber duck", "price": 1000, "id":1},
+        {"image":"https://media.dustin.eu/image/172269/180/130/yamaha-htr-4069---black.jpg", "title":"Big PC", "price": 5000, "id":2},
+        {"image":"https://media.dustin.eu/image/157686/180/130/lenovo-tab-2-a10-30-101-16gb-bla.jpg", "title":"Spare tab key", "price": 99, "id":3},
+        {"image":"https://media.dustin.eu/image/149976/180/130/microsoft-windows-10-home-sve-usb.jpg", "title":"Shitty OS", "price": 100, "id":4}
+    ]
+}
