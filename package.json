@@ -25,6 +25,8 @@
   "dependencies": {
     "react": "^15.5.4",
     "react-dom": "^15.5.4",
-    "superagent": "^3.5.2"
+    "socket-io-mock": "^1.0.1",
+    "superagent": "^3.5.2",
+    "websocket": "^1.0.24"
   }
 }
